@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/virtual-crafts-marketplace/static/css/main.34101d14.css",
+    "main.js": "/virtual-crafts-marketplace/static/js/main.2057f6de.js",
+    "static/js/453.3257c68d.chunk.js": "/virtual-crafts-marketplace/static/js/453.3257c68d.chunk.js",
+    "index.html": "/virtual-crafts-marketplace/index.html",
+    "main.34101d14.css.map": "/virtual-crafts-marketplace/static/css/main.34101d14.css.map",
+    "main.2057f6de.js.map": "/virtual-crafts-marketplace/static/js/main.2057f6de.js.map",
+    "453.3257c68d.chunk.js.map": "/virtual-crafts-marketplace/static/js/453.3257c68d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34101d14.css",
+    "static/js/main.2057f6de.js"
+  ]
+}
